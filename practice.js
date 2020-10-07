@@ -38,7 +38,7 @@ var devMountainGoal = null;
 //Code here
 function greeting(name) {
   return "Hello, " + name;
-};
+}
 //////////////////PROBLEM 7////////////////////
 
 //Write a function expression called newGreeting.        
@@ -47,7 +47,7 @@ function greeting(name) {
 //Code Here
 const newGreeting = function(name) {
   return "Hello, " + name;
-};
+}
 //////////////////PROBLEM 8////////////////////
 
 //Create an array called groceries with the values
@@ -68,7 +68,7 @@ let dog = {
   color: "White",
   age: 2,
   goodBoy: true
-};
+}
 
 //...access the dog's name from the object and assign it to a
 //variable called devMountainClassPet.
@@ -93,7 +93,7 @@ function nameCheck(name){
   } else {
     return 'Cool name, ' + name; 
   }
-};
+}
 //////////////////PROBLEM 11////////////////////
 
 // Create a function called add that takes in two parameters
@@ -103,7 +103,7 @@ function nameCheck(name){
 //Code Here
 function add(num1, num2) {
   return num1 + num2;
-};
+}
 
 //Now invoke add, passing in the numbers 3 and 4
 //storing the result in the variable mathSum.
@@ -131,7 +131,7 @@ function faveColorFinder(color) {
   } else {
     return 'you need to evaluate your favorite color choice';
   }
-};
+}
 //////////////////PROBLEM 13////////////////////
 
 let duck = "cute";
